@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 SnippetCraft AI - Code Review & Snippet Manager
 
 <div align="center">
@@ -402,3 +403,7 @@ This README is now suitable for a **portfolio-level MERN + AI project** and high
 - Developer documentation
 
 You can directly save this as `README.md` in your repository.
+=======
+# SnippetCraft-AI
+SnippetCraft AI is a full-stack MERN application enabling developers to manage, organize, and analyze code snippets. Powered by the Groq API for AI code reviews, it features a Monaco editor interface, secure cookie-based authentication, and strict Joi validation for a seamless workflow.
+>>>>>>> f73eef49be8d3ad08263e280487bd864c29cba2f
